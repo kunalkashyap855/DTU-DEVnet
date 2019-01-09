@@ -168,5 +168,6 @@ table {
 }
 
 .space-below{
-	margin-bottom: 30px;
+	padding: 1em;
+	margin-bottom: 1em;
 }
